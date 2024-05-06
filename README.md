@@ -24,6 +24,8 @@ Types:
 - registered reports include the peer review and in principle acceptance of a study protocol prior to data collection.[3] 
 
 
+
+
 'I will argue that only slight modifications are needed to harness the potential of preregistration and make exploratory research more trustworthy and useful.' [`dirnagl2020preregistration`]
 
 'Through the log, reviewers could monitor the work as it unfolds, a “rolling review,” as proposed by Chambers and Tzavella [8].' [`dirnagl2020preregistration`]
@@ -52,6 +54,11 @@ Table 1. Misconceptions and realities of Registered Reports (RRs) from [`chamber
 - 10. RRs give reviewers too much power to decide what research is undertaken
 
 [`bakker2020ensuring`] describes the process of data exploration, also for exploratory.
+
+## Link
+
+- List of lists of registered reports: https://www.cos.io/initiatives/registered-reports
+- List of registred reports: https://www.zotero.org/groups/479248/osf/collections/KEJP68G9
 
 ## References
 
