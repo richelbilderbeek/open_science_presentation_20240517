@@ -58,7 +58,9 @@ Table 1. Misconceptions and realities of Registered Reports (RRs) from [`chamber
 ## Link
 
 - List of lists of registered reports: https://www.cos.io/initiatives/registered-reports
-- List of registred reports: https://www.zotero.org/groups/479248/osf/collections/KEJP68G9
+- List of registered reports: https://www.zotero.org/groups/479248/osf/collections/KEJP68G9
+
+Converted to csv :-)
 
 ## References
 
@@ -151,4 +153,8 @@ Table 1. Misconceptions and realities of Registered Reports (RRs) from [`chamber
 
 
 
+## A retracted exploratory study
+
+https://journals.sagepub.com/doi/10.1177/23333928221103107
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8581786/
 
