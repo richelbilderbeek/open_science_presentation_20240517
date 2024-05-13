@@ -118,6 +118,11 @@ Preregistration in practice: A comparison of preregistered and non-preregistered
 
 ## Empirical work results: select exploratory studies
 
+ * Exploring decoy effects on computerized task preferences in rhesus monkeys (Macaca mulatta) @parrish2018exploring
+ * Exploring the intra-individual reliability of tDCS: A registered report @willmot2024exploring
+ * Exploring the switching of the focus of attention within working memory: A combined event-related potential and behavioral study @frenken2018exploring
+ * Registered Report: Exploratory Analysis of Ownership Diversity and Innovation in the Annual Business Survey @wojan2023registered
+
 ## Empirical work results: answers
 
 ## Conclusion
