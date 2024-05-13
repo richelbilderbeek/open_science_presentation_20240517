@@ -1,0 +1,126 @@
+---
+title: "On publishing the analysis of exploratory research before having seen the data"
+author: "Richèl Bilderbeek"
+format: revealjs
+editor: visual
+from: markdown+emoji
+bibliography: open_science_presentation_20240517.bib
+csl: vancouver.csl
+css: styles.css
+slide-number: true
+number-sections: true
+number-offset: -1
+---
+
+# On publishing the analysis of exploratory research before having seen the data
+
+![](CC0.png) Richèl Bilderbeek
+
+# Introduction
+
+## Research question
+
+Can one publish the analysis of exploratory research before having seen the data?
+
+## Terms
+
+Preregistration = publishing the analysis of research 
+before having seen the data @chambers2019s
+
+![](chambers_nature_registered_reports.jpg)
+
+## Why?
+
+Preregistration prevents Questionable Research Practices 
+
+## Why not?
+
+For an exploratory study, one cannot do a useful analysis beforehand.
+
+# Setup
+
+ * Literature search
+ * Empirical work
+
+# Setup of literature search
+
+ * Search the literature for 'preregistration+exploratory' 
+   on https://scholar.google.com 
+ * Of top 10, select for papers that seem able to answer the research 
+   question 'Can one publish the analysis of exploratory research before having seen the data?'
+ * Read those, write down the answer to the question, if any
+
+## General literature search results
+
+ * 29,400 results
+ * 1 article that has both 'preregistration' and 'exploratory'
+   in the title @dirnagl2020preregistration
+
+## Top 5 hits
+
+ * **Preregistration of exploratory research: Learning from the golden age of discovery** @dirnagl2020preregistration
+ * Preregistration is neither sufficient nor necessary for good science
+ * Why preregistration makes me nervous
+ * **Study preregistration: An evaluation of a method for transparent reporting** @toth2021study
+ * **What should a preregistration contain?** @mcphetres2020should
+
+## Top hits 6-10
+
+ * **How can preregistration contribute to research in our field?** @jonas2016can
+ * **Pre‐registration: Why and how** @p2021pre
+ * Preregistration of analyses of preexisting data
+ * **Hark no more: On the preregistration of chi experiments** @cockburn2018hark
+ * **Preregistration in practice: A comparison of preregistered and non-preregistered studies in psychology** @van2023preregistration
+
+## Answer 1
+
+Preregistration of exploratory research: Learning from the golden age of discovery @dirnagl2020preregistration
+
+## Answer 2
+
+Study preregistration: An evaluation of a method for transparent reporting @toth2021study
+
+## Answer 3
+
+What should a preregistration contain? @mcphetres2020should
+
+## Answer 4
+
+How can preregistration contribute to research in our field? @jonas2016can
+
+## Answer 5
+
+Pre‐registration: Why and how @p2021pre
+
+## Answer 6
+
+Hark no more: On the preregistration of chi experiments @cockburn2018hark
+ 
+## Answer 7
+
+Preregistration in practice: A comparison of preregistered and non-preregistered studies in psychology @van2023preregistration
+
+# Setup of empirical work
+
+ * Search for registered reports that are exploratory
+ * Read the associated papers for an answer of 
+   'Can one publish the analysis of exploratory research before having seen the data?'
+
+## Empirical work results: get all registered reports
+
+ * Finding registered reports is hard! 
+   Please let me know if you find something better!
+
+ * Found a manually curated list of 351 registered reports at <https://www.zotero.org/groups/479248/osf/collections/KEJP68G9>.
+
+ * Clumsy! Cannot export all entries at once, 
+   I stitched together all parts to [rr.csv](rr.csv) using an R script.
+
+## Empirical work results: select exploratory studies
+
+## Empirical work results: answers
+
+## Conclusion
+
+
+# References
