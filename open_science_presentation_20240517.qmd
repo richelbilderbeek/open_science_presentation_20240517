@@ -76,13 +76,54 @@ For an exploratory study, one cannot do a useful analysis beforehand.
 
 Preregistration of exploratory research: Learning from the golden age of discovery @dirnagl2020preregistration
 
+Why preregister for exploraratory studies:
+
+> [to] make exploratory research more trustworthy and useful.
+
+Because:
+
+> Stage 1 peer review would alert researchers about methodological and analytical
+weaknesses, conflicts with guidelines, overlooked or misinterpreted previous evidence, etc.
+> This would help them to increase study quality before they start, potentially saving resources
+and even animals [7]. 
+
+Then suggests a rolling log:
+
+> Through the log, reviewers could monitor the work as it unfolds, a “roll-
+ing review,” as proposed by Chambers and Tzavella [8]. Alternatively, the log could be kept as
+an open laboratory notebook [9]. The ensuing log would lead to a real “next we” narrative, not
+the imaginary post hoc storytelling that is presently common.
+
+Nice quote:
+
+> But isn’t it great science that drives progress? And isn’t great science, by definition, rigorous
+and technically sound?
+
 ## Answer 2
 
 Study preregistration: An evaluation of a method for transparent reporting @toth2021study
 
+- Closed access paper
+
+Why preregister for exploratory studies:
+
+> it helps to distinguish between confirmatory and exploratory analyses
+> it will allow researchers to set their stopping rules for data exploration and what tools they will use to assess the robustness of emergent findings.
+> it delivers additional credibility because of the increased transparency that is provided
+
+Findings:
+
+> [...] preregistration effectively facilitated more transparent reporting based on criteria 
+> (i.e., confirmed hypotheses and a priori analysis plans). 
+
+> [... ] preregistered samples had fewer statistically significant results (48%) 
+> than non-preregistered samples (66%)
+
+
 ## Answer 3
 
 What should a preregistration contain? @mcphetres2020should
+
 
 ## Answer 4
 
@@ -127,5 +168,55 @@ Preregistration in practice: A comparison of preregistered and non-preregistered
 
 ## Conclusion
 
+## Appendix
+
+### Recommendations 1/
+
+Recommendations to graduate training @toth2021study:
+
+- Train graduate students on how to go through a preregistration process
+- Teach graduate students to ask research questions that are interesting even if there are null results
+
+### Recommendations 2/
+
+Recommendations to graduate training @toth2021study:
+
+- Teach students how to write-up null results (something rarely seen in top management articles)
+- Preregister Master’s theses and dissertations
+
+### Recommendations 3/
+
+Recommendations to researchers @toth2021study:
+
+- Solicit advice from colleagues prior to registration
+- Preregister a decision tree
+
+### Recommendations 4/
+
+Recommendations to graduate training @toth2021study:
+
+- Transparently report deviations from preregistration
+- Explore data; report confirmatory and exploratory analyses separately. Leverage holdout datasets if needed.
+
+### Recommendations 5/
+
+Recommendations to graduate training @toth2021study:
+
+- Interpret null results; explain their contribution to the field
+- Preregister contingency plans for data collection and study design (e.g., how will you collect data if an organizational partner pulls out of data collection?)
+
+### Recommendations 6/
+
+Recommendations to graduate training @toth2021study:
+
+- Make preregistrations public after publication to allow other researchers to learn from your design and issues encountered during the study
+- If conducting multilevel research, preregister cutoff statistics to justify aggregation and plans to handle missing data
+
+### Recommendations 7/
+
+Recommendations to graduate training @toth2021study:
+
+- If using an ESM design, preregister how many surveys given per week and plans for how to shorten measures
+- If using archival data, transparently report when hypotheses were created in relation to when data were viewed and decisions around how to combine particular variables, cut-off dates, and/or inclusion criteria related to characteristics of firms or institutions
 
 # References
