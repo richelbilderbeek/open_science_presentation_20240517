@@ -124,18 +124,37 @@ Findings:
 
 What should a preregistration contain? @mcphetres2020should
 
+- Reduces file drawering
+- Flags exploratory study
 
 ## Answer 4
 
 How can preregistration contribute to research in our field? @jonas2016can
 
+> Closed access
+
+- improves the innovative scientiﬁc process of discovery
+
 ## Answer 5
 
 Pre‐registration: Why and how @p2021pre
 
+> Closed access
+
+- it gives the opportunity to specify their analyses prior to data collection, it can ensure that those ﬁndings are not p-hacked, and thus less likely to be false-positives
+- it beneﬁts researchers by ensuring that they will get credit for fully planned analyses.
+
 ## Answer 6
 
 Hark no more: On the preregistration of chi experiments @cockburn2018hark
+ 
+> Closed access
+
+Could not. Probably: 
+
+- to prevent p-value hacking
+
+ 
  
 ## Answer 7
 
