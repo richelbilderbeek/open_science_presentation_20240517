@@ -20,7 +20,9 @@ number-offset: -1
 
 ## Research question
 
-Can one publish the analysis of exploratory research before having seen the data?
+Should one publish the analysis of exploratory research before having seen the data?
+
+If yes, has it been done?
 
 ## Terms
 
@@ -164,14 +166,11 @@ Preregistration in practice: A comparison of preregistered and non-preregistered
 
 ### Answer 1
 
-Exploring decoy effects on computerized task preferences
-in rhesus monkeys (Macaca mulatta) @parrish2018exploring
+Exploring decoy effects on computerized task preferences in rhesus monkeys (Macaca mulatta) @parrish2018exploring
 
 Added one experiment:
 
-> This experiment was added after acceptance of the pre-registered manuscript. These methods were not included in the original
-pre-registered review process, but were reviewed by the editor for appropriateness with the original submission aims and
-proposed methodology.
+> This experiment was added after acceptance of the pre-registered manuscript. These methods were not included in the original pre-registered review process, but were reviewed by the editor for appropriateness with the original submission aims and proposed methodology.
 
 ### Answer 2
 
@@ -185,14 +184,7 @@ proposed methodology.
 
 Changed experiment
 
-> We had to apply the following changes to the pre-registered pro-
-cedure: Concerning the experimental methods, the cue presentation
-lasts 1500 ms instead of 1000 ms due to a technical error. Regarding the
-analysis, we deem re-referencing of EEG data necessary for inter-
-pretable results because the proximity of the reference electrode to the
-main electrode (Fz) artiﬁcially diminishes the signal of interest.
-Therefore, we re-referenced the EEG signal to the average of all active
-scalp electrodes.
+> We had to apply the following changes to the pre-registered pro- cedure: Concerning the experimental methods, the cue presentation lasts 1500 ms instead of 1000 ms due to a technical error. Regarding the analysis, we deem re-referencing of EEG data necessary for inter- pretable results because the proximity of the reference electrode to the main electrode (Fz) artiﬁcially diminishes the signal of interest. Therefore, we re-referenced the EEG signal to the average of all active scalp electrodes.
 
 ### Answer 4
 
@@ -200,12 +192,7 @@ scalp electrodes.
 
 Why RR:
 
-> However, these costs and complications appear minor relative to the possible undermining of research
-output lacking full transparency, regardless of the validity of the criticism. Even more so if the topic
-being studied is contentious as is the case of the present exploratory analysis of diversity, extending to
-climate change, tax policy, foreign trade, labor saving technologies such as robotics or artificial
-intelligence, among others. In an era when widespread encouragement to “do your own research” is
-code for “don’t trust science,” the premium for research transparency has never been higher.
+> However, these costs and complications appear minor relative to the possible undermining of research output lacking full transparency, regardless of the validity of the criticism. Even more so if the topic being studied is contentious as is the case of the present exploratory analysis of diversity, extending to climate change, tax policy, foreign trade, labor saving technologies such as robotics or artificial intelligence, among others. In an era when widespread encouragement to "do your own research" is code for "don't trust science," the premium for research transparency has never been higher.
 
 ## Empirical work results: answers
 
