@@ -20,15 +20,18 @@ number-offset: -1
 
 ## Research question
 
-Should one publish the analysis of exploratory research before having seen the data?
+On publishing the analysis of exploratory research before having seen the data:
 
-If yes, has it been done?
+- why?
+- has it been done?
 
-## Terms
-
-Preregistration = publishing the analysis of research before having seen the data @chambers2019s
+## Registered report @chambers2019s
 
 ![](chambers_nature_registered_reports.jpg)
+
+## Place of preregistration @osfSubmitRegistered
+
+![](prereg_and_rr.png)
 
 ## Why?
 
@@ -45,7 +48,7 @@ For an exploratory study, one cannot do a useful analysis beforehand.
 
 # Setup of literature search
 
--   Search the literature for 'preregistration+exploratory' on https://scholar.google.com
+-   Search the literature for 'preregistration+exploratory' on [https://scholar.google.com](https://scholar.google.com)
 -   Of top 10, select for papers that seem able to answer the research question 'Can one publish the analysis of exploratory research before having seen the data?'
 -   Read those, write down the answer to the question, if any
 
@@ -59,194 +62,308 @@ For an exploratory study, one cannot do a useful analysis beforehand.
 -   **Preregistration of exploratory research: Learning from the golden age of discovery** @dirnagl2020preregistration
 -   Preregistration is neither sufficient nor necessary for good science
 -   Why preregistration makes me nervous
--   **Study preregistration: An evaluation of a method for transparent reporting** @toth2021study
+-   ![Closed access](closed_access_19x30.png) **Study preregistration: An evaluation of a method for transparent reporting** @toth2021study 
 -   **What should a preregistration contain?** @mcphetres2020should
 
 ## Top hits 6-10
 
--   **How can preregistration contribute to research in our field?** @jonas2016can
--   **Pre‐registration: Why and how** @p2021pre
+-   ![Closed access](closed_access_19x30.png) **How can preregistration contribute to research in our field?** @jonas2016can
+-   ![Closed access](closed_access_19x30.png) **Pre‐registration: Why and how** @p2021pre
 -   Preregistration of analyses of preexisting data
--   **Hark no more: On the preregistration of chi experiments** @cockburn2018hark
+-   ![Closed access](closed_access_19x30.png) **Hark no more: On the preregistration of chi experiments** @cockburn2018hark
 -   **Preregistration in practice: A comparison of preregistered and non-preregistered studies in psychology** @van2023preregistration
 
-## Answer 1
+## Quote: why preregister for exploratory studies? 
 
-Preregistration of exploratory research: Learning from the golden age of discovery @dirnagl2020preregistration
+> But isn't it great science that drives progress? 
+> And isn't great science, by definition, rigorous and technically sound?
+>
+> @dirnagl2020preregistration
 
-Why preregister for exploraratory studies:
+## Answers 1/4: why preregister for exploratory studies? 
 
-> \[to\] make exploratory research more trustworthy and useful.
+Exploratory research:
 
-Because:
+- make exploratory research more trustworthy @dirnagl2020preregistration @toth2021study @wojan2023registered
+- make exploratory research more useful @dirnagl2020preregistration
+- improves the innovative scientiﬁc process of discovery @jonas2016can
 
-> Stage 1 peer review would alert researchers about methodological and analytical weaknesses, conflicts with guidelines, overlooked or misinterpreted previous evidence, etc. This would help them to increase study quality before they start, potentially saving resources and even animals \[7\].
+## Answers 2/4: why preregister for exploratory studies? 
 
-Then suggests a rolling log:
+Analysis 1/2:
 
-> Through the log, reviewers could monitor the work as it unfolds, a "roll- ing review," as proposed by Chambers and Tzavella \[8\]. Alternatively, the log could be kept as an open laboratory notebook \[9\]. The ensuing log would lead to a real "next we" narrative, not the imaginary post hoc storytelling that is presently common.
+- distinguish between confirmatory and exploratory analyses @toth2021study @mcphetres2020should
+- increase study quality due to Stage 1 review @dirnagl2020preregistration
+- save resources, due to Stage 1 review @dirnagl2020preregistration
 
-Nice quote:
+## Answers 3/4: why preregister for exploratory studies? 
 
-> But isn't it great science that drives progress? And isn't great science, by definition, rigorous and technically sound?
+Analysis 2/2:
 
-## Answer 2
+- allows to set a stopping rule  @toth2021study
+- allows to determine which tools will be used @toth2021study
+- one can specify an analyses prior to data collection @p2021pre
+- get credit for fully planned analyses. @p2021pre
 
-Study preregistration: An evaluation of a method for transparent reporting @toth2021study
+## Answers 4/4: why preregister for exploratory studies? 
 
--   Closed access paper
+Reduce QRP:
 
-Why preregister for exploratory studies:
+- reduces file drawering @mcphetres2020should
+- reduce p-hacking @p2021pre
+- prevent HARKing @cockburn2018hark
+- 'avoid imaginary post hoc storytelling' @dirnagl2020preregistration
 
-> it helps to distinguish between confirmatory and exploratory analyses it will allow researchers to set their stopping rules for data exploration and what tools they will use to assess the robustness of emergent findings. it delivers additional credibility because of the increased transparency that is provided
+[*] @van2023preregistration gives no reasons 
 
-Findings:
+## Answers 5/4: why preregister for exploratory studies? 
 
-> \[...\] preregistration effectively facilitated more transparent reporting based on criteria (i.e., confirmed hypotheses and a priori analysis plans).
+Missing according to me:
 
-> \[... \] preregistered samples had fewer statistically significant results (48%) than non-preregistered samples (66%)
+- an experiment always move forwards
+- it forces supervisors to stop asking 'one more analysis'
 
-## Answer 3
+## Effects of preregistering an exploratory study
 
-What should a preregistration contain? @mcphetres2020should
-
--   Reduces file drawering
--   Flags exploratory study
-
-## Answer 4
-
-How can preregistration contribute to research in our field? @jonas2016can
-
-> Closed access
-
--   improves the innovative scientiﬁc process of discovery
-
-## Answer 5
-
-Pre‐registration: Why and how @p2021pre
-
-> Closed access
-
--   it gives the opportunity to specify their analyses prior to data collection, it can ensure that those ﬁndings are not p-hacked, and thus less likely to be false-positives
--   it beneﬁts researchers by ensuring that they will get credit for fully planned analyses.
-
-## Answer 6
-
-Hark no more: On the preregistration of chi experiments @cockburn2018hark
-
-> Closed access
-
-Could not. Probably:
-
--   to prevent p-value hacking
-
-## Answer 7
-
-Preregistration in practice: A comparison of preregistered and non-preregistered studies in psychology @van2023preregistration
+- preregistration effectively facilitated more transparent reporting 
+  based on criteria (i.e., confirmed hypotheses and a priori analysis plans) @toth2021study.
+- preregistered samples had fewer statistically significant results (48%) 
+  than non-preregistered samples (66%) @toth2021study
 
 # Setup of empirical work
 
 -   Search for registered reports that are exploratory
--   Read the associated papers for an answer of 'Can one publish the analysis of exploratory research before having seen the data?'
+-   Which fields?
+-   How was analysis specified?
+-   Was the design changed?
 
 ## Empirical work results: get all registered reports
 
 -   Finding registered reports is hard! Please let me know if you find something better!
-
 -   Found a manually curated list of 351 registered reports at <https://www.zotero.org/groups/479248/osf/collections/KEJP68G9>.
-
 -   Clumsy! Cannot export all entries at once, I stitched together all parts to [rr.csv](rr.csv) using an R script.
 
-## Empirical work results: select exploratory studies
+## Empirical work results: select exploratory studies 1/2
 
 -   Exploring decoy effects on computerized task preferences in rhesus monkeys (Macaca mulatta) @parrish2018exploring
--   Exploring the intra-individual reliability of tDCS: A registered report @willmot2024exploring
--   Exploring the switching of the focus of attention within working memory: A combined event-related potential and behavioral study @frenken2018exploring
--   Registered Report: Exploratory Analysis of Ownership Diversity and Innovation in the Annual Business Survey @wojan2023registered
+-   Exploring the intra-individual reliability of tDCS [*]: A registered report @willmot2024exploring
 
-### Answer 1
+[*] tDCS: Transcranial direct current stimulation.
 
-Exploring decoy effects on computerized task preferences in rhesus monkeys (Macaca mulatta) @parrish2018exploring
+## Empirical work results: select exploratory studies 2/2
 
-Added one experiment:
+-   ![Closed access](closed_access_19x30.png)  Exploring the switching of the focus of attention within working memory: A combined event-related potential and behavioral study @frenken2018exploring
+-   [*] Registered Report: Exploratory Analysis of Ownership Diversity and Innovation in the Annual Business Survey @wojan2023registered
 
-> This experiment was added after acceptance of the pre-registered manuscript. These methods were not included in the original pre-registered review process, but were reviewed by the editor for appropriateness with the original submission aims and proposed methodology.
+[*] Removed, as it did not publish a preregistration..? Does link
+to (OSF Preregistration template)[https://osf.io/x4gzt/wiki/Preregistration%20Template]
 
-### Answer 2
+## Empirical work results: Which fields?
 
--   Exploring the intra-individual reliability of tDCS: A registered report @willmot2024exploring
+- monkey behavior @parrish2018exploring
+- brain physiology @willmot2024exploring
+- human cognition @frenken2018exploring
+- (economics @wojan2023registered)
 
-### Answer 3
+## Empirical work results: how was analysis specified? 1/9
 
--   Exploring the switching of the focus of attention within working memory: A combined event-related potential and behavioral study @frenken2018exploring
+Reporting measurements:
 
-> Closed access
+- 'We will report [all measured values in time]' @parrish2018exploring
+- 'Raw data files will be immediately uploaded' @willmot2024exploring
 
-Changed experiment
+Reporting tools:
 
-> We had to apply the following changes to the pre-registered pro- cedure: Concerning the experimental methods, the cue presentation lasts 1500 ms instead of 1000 ms due to a technical error. Regarding the analysis, we deem re-referencing of EEG data necessary for inter- pretable results because the proximity of the reference electrode to the main electrode (Fz) artiﬁcially diminishes the signal of interest. Therefore, we re-referenced the EEG signal to the average of all active scalp electrodes.
+- 'Analysis will be conducted using JASP software and the BFpack package in R' @willmot2024exploring
+- 'We are going to conduct all behavioral analyses in SPSS and all EEG-analysis in ERPLAB' @frenken2018exploring
 
-### Answer 4
+## Empirical work results: how was analysis specified? 2/9
 
--   Registered Report: Exploratory Analysis of Ownership Diversity and Innovation in the Annual Business Survey @wojan2023registered
+Reporting analysis workflow:
 
-Why RR:
+- 'our analysis of SRTT performance will follow the method of [a study]' @willmot2024exploring
+- 'We will use [a test] to identify violations of sphericity and, 
+  if necessary, implement [an] adjustment [reference] for correction' @frenken2018exploring
 
-> However, these costs and complications appear minor relative to the possible undermining of research output lacking full transparency, regardless of the validity of the criticism. Even more so if the topic being studied is contentious as is the case of the present exploratory analysis of diversity, extending to climate change, tax policy, foreign trade, labor saving technologies such as robotics or artificial intelligence, among others. In an era when widespread encouragement to "do your own research" is code for "don't trust science," the premium for research transparency has never been higher.
+## Empirical work results: how was analysis specified? 3/9
 
-## Empirical work results: answers
+Reporting significance threshold:
 
-## Conclusion
+- 'We are going to conduct all [analyses] with α = .05' @frenken2018exploring
+
+Reporting priors:
+
+- 'Bayesian analyses will use default Cauchy priors centred on 0 with a variance width of 0.707' @willmot2024exploring
+
+## Empirical work results: how was analysis specified? 4/9
+
+Reporting statistical test:
+
+- 'We will [use] a 3x2 Chi Square test for independence for each monkey' @parrish2018exploring
+- 'we will conduct a Student’s t-test for paired samples' @frenken2018exploring
+
+## Empirical work results: how was analysis specified? 5/9
+
+Testing assumptions of experiment:
+
+- 'We also will compare the proportion of choices of the [tasks], 
+  to determine if the presence of [the intervention] [indeed] 
+  affected the relative choice preferences for [the control] tasks' @parrish2018exploring
+- 'We assume at least a medium effect size of Cohen’s d > 0.5' @frenken2018exploring
+
+## Empirical work results: how was analysis specified? 6/9
+
+Testing experiment is valid:
+
+- 'we will report Cohen’s d to evaluate the corresponding effect size' @frenken2018exploring
+- 'if no significant difference between [positive control trials] exists in the data, 
+  the results of the study cannot be interpreted regarding the present research question' @frenken2018exploring
+
+## Empirical work results: how was analysis specified? 7/9
+
+Report exclusion rule:
+
+- 'individuals who score 2.5 SDs above or below the mean for response time or accuracy, 
+  do not follow task instructions, 
+  or do not complete all four sessions of a task 
+  will have their data excluded from the analysis process' @willmot2024exploring
+
+## Empirical work results: how was analysis specified? 8/9
+
+Doing partial replication:
+
+- 'as a partial replication of previous research, we will [replication procedure]' @parrish2018exploring
+- 'Bayesian paired-sample t-tests will run on sham and [real setup]. A small-to-medium effect (d ≤ 0.2) of tDCS, consistent with previous studies [references], is expected' @willmot2024exploring
+- 'Based on previous [studies][references], we predict that [...] effects in both tasks should reach at least moderately reliable thresholds (p > .60, r > .30) within individuals' @willmot2024exploring
+
+## Empirical work results: how was analysis specified? 9/9
+
+Drawing conclusions:
+
+- 'If we observe a null result, the [...] paradigm failed to work or [alternative explanation] and hypothesis 3 will be obsolete' @frenken2018exploring
+- 'A null result [of an analysis] indicates that either [a paradigm] does not exist or that the experimental paradigm does not work in the expected way' @frenken2018exploring
+
+## Empirical work results: Was the design changed?
+
+2 out of 3 changed the study design:
+
+Added one experiment, from @parrish2018exploring:
+
+> This experiment was added after acceptance of the pre-registered manuscript. 
+> These methods were not included in the original pre-registered review process, 
+> but were reviewed by the editor for appropriateness 
+> with the original submission aims and proposed methodology.
+
+## Empirical work results: Was the design changed?
+
+Changed experimental setup, from @frenken2018exploring:
+
+> We had to apply the following changes to the pre-registered procedure: 
+> Concerning the experimental methods, 
+> the cue presentation lasts 1500 ms instead of 1000 ms due to a technical error. 
+> Regarding the analysis, we deem re-referencing of EEG data 
+> necessary for interpretable results 
+> because the proximity of the reference electrode to the main electrode (Fz) 
+> artiﬁcially diminishes the signal of interest. 
+> Therefore, we re-referenced the EEG signal to the average 
+> of all active scalp electrodes.
+
+## Pregistration with logging?
+
+From @dirnagl2020preregistration
+
+> Through the log, reviewers could monitor the work as it unfolds, 
+> a “rolling review,” as proposed by [7]. 
+> Alternatively, the log could be kept as an open laboratory notebook [9]. 
+> The ensuing log would lead to a real “next we” narrative, 
+> not the imaginary post hoc storytelling that is presently common. 
+
+- [7] is @chambers2020registered
+- [9] is @schapira2019open
+
+## Conclusion 0/
+
+Problems with method today:
+
+- unable to search specifically for registered reports
+- unable to search specifically for exploratory research
+
+## Conclusion 1/
+
+Why publish the analysis of exploratory research before having seen the data:
+
+  - distinguish between confirmatory and exploratory analyses @toth2021study @mcphetres2020should
+  - make exploratory research better @dirnagl2020preregistration @toth2021study @jonas2016can
+  - allows to set a stopping rule  @toth2021study @p2021pre
+  - reduce QRP @mcphetres2020should @p2021pre @cockburn2018hark @dirnagl2020preregistration
+
+## Conclusion 2/
+
+Has the analysis of exploratory research before having seen the data been published?
+
+Yes!
+
+-   4 out of 351 registered reports have the word 'exploratory' in their title @parrish2018exploring @willmot2024exploring @frenken2018exploring @wojan2023registered
+-   3 of these 4 have a preregistration @parrish2018exploring @willmot2024exploring @frenken2018exploring
+-   fields were behavior @parrish2018exploring, physiology @willmot2024exploring and cognition @frenken2018exploring
+-   The analysis was specified in details with different styles
+
+## Conclusion 3/
+
+-   2 out of 3 preregistered studies changed the study design:
+    - change experimental setup @frenken2018exploring
+    - added an experiment @parrish2018exploring
+
+## Conclusion 4/
+
+- Lack of diversity in fields that do a registered report
+- No qualitative studies found, although there are recommendations @toth2021study
+- A rolling report seems 
+
+## My statement
+
+> Any study should be preregistered when possible
+> and doing so is always worth it.
+>
+> Richèl Bilderbeek
+
+Please try to change my mind!
+
+## Discussion
+
+- Used a quick-and-too-dirty approach?
+    - Too few registered reports?
+    - Too sloppy selection for exploratory research?
 
 ## Appendix
 
-### Recommendations 1/
+## Recommendations 1/4
 
-Recommendations to graduate training @toth2021study:
+-   Train graduate students on how to go through a preregistration process @toth2021study
+-   Teach graduate students to ask research questions that are interesting even if there are null results @toth2021study
+-   Teach students how to write-up null results @toth2021study
+-   Preregister Master's theses and dissertations @toth2021study
 
--   Train graduate students on how to go through a preregistration process
--   Teach graduate students to ask research questions that are interesting even if there are null results
+## Recommendations 2/4
 
-### Recommendations 2/
+-   Solicit advice from colleagues prior to registration @toth2021study
+-   Preregister a decision tree @toth2021study
+-   Transparently report deviations from preregistration @toth2021study
+-   Explore data; report confirmatory and exploratory analyses separately. Leverage holdout datasets if needed @toth2021study
 
-Recommendations to graduate training @toth2021study:
+## Recommendations 3/4
 
--   Teach students how to write-up null results (something rarely seen in top management articles)
--   Preregister Master's theses and dissertations
+-   Interpret null results; explain their contribution to the field @toth2021study
+-   Preregister contingency plans for data collection and study design @toth2021study
+-   Make preregistrations public after publication to allow other researchers to learn from your design and issues encountered during the study @toth2021study
+-   If conducting multilevel research, preregister cutoff statistics to justify aggregation and plans to handle missing data @toth2021study
 
-### Recommendations 3/
+## Recommendations 4/4
 
-Recommendations to researchers @toth2021study:
+-   If using an ESM design, preregister how many surveys given per week and plans for how to shorten measures @toth2021study
 
--   Solicit advice from colleagues prior to registration
--   Preregister a decision tree
+[*] Experience sampling method, also called daily diary method, or ecological momentary assessment
 
-### Recommendations 4/
-
-Recommendations to graduate training @toth2021study:
-
--   Transparently report deviations from preregistration
--   Explore data; report confirmatory and exploratory analyses separately. Leverage holdout datasets if needed.
-
-### Recommendations 5/
-
-Recommendations to graduate training @toth2021study:
-
--   Interpret null results; explain their contribution to the field
--   Preregister contingency plans for data collection and study design (e.g., how will you collect data if an organizational partner pulls out of data collection?)
-
-### Recommendations 6/
-
-Recommendations to graduate training @toth2021study:
-
--   Make preregistrations public after publication to allow other researchers to learn from your design and issues encountered during the study
--   If conducting multilevel research, preregister cutoff statistics to justify aggregation and plans to handle missing data
-
-### Recommendations 7/
-
-Recommendations to graduate training @toth2021study:
-
--   If using an ESM design, preregister how many surveys given per week and plans for how to shorten measures
--   If using archival data, transparently report when hypotheses were created in relation to when data were viewed and decisions around how to combine particular variables, cut-off dates, and/or inclusion criteria related to characteristics of firms or institutions
+-   If using archival data, transparently report when hypotheses were created in relation to when data were viewed and decisions around how to combine particular variables, cut-off dates, and/or inclusion criteria @toth2021study
 
 # References
