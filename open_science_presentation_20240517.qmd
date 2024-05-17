@@ -16,7 +16,15 @@ number-offset: -1
 
 ![](CC0.png) Richèl Bilderbeek
 
+<https://github.com/richelbilderbeek/open_science_presentation_20240517.git>
+
 # Introduction
+
+## Statement
+
+'Although publishing the analysis of research before having seen the data
+so prevents Questionable Research Practices,
+for an exploratory study, one cannot do a useful analysis beforehand'
 
 ## Research question
 
@@ -33,14 +41,6 @@ On publishing the analysis of exploratory research before having seen the data:
 
 ![](prereg_and_rr.png)
 
-## Why?
-
-Preregistration prevents Questionable Research Practices
-
-## Why not?
-
-For an exploratory study, one cannot do a useful analysis beforehand.
-
 # Setup
 
 -   Literature search
@@ -56,6 +56,8 @@ For an exploratory study, one cannot do a useful analysis beforehand.
 
 -   29,400 results
 -   1 article that has both 'preregistration' and 'exploratory' in the title @dirnagl2020preregistration
+-   7 articles seem useful to answer 'Why would one preregister an exploratory study?'
+-   6 articles are useful, as @van2023preregistration gives no reasons 
 
 ## Top 5 hits
 
@@ -72,13 +74,6 @@ For an exploratory study, one cannot do a useful analysis beforehand.
 -   Preregistration of analyses of preexisting data
 -   ![Closed access](closed_access_19x30.png) **Hark no more: On the preregistration of chi experiments** @cockburn2018hark
 -   **Preregistration in practice: A comparison of preregistered and non-preregistered studies in psychology** @van2023preregistration
-
-## Quote: why preregister for exploratory studies? 
-
-> But isn't it great science that drives progress? 
-> And isn't great science, by definition, rigorous and technically sound?
->
-> @dirnagl2020preregistration
 
 ## Answers 1/4: why preregister for exploratory studies? 
 
@@ -103,7 +98,7 @@ Analysis 2/2:
 - allows to set a stopping rule  @toth2021study
 - allows to determine which tools will be used @toth2021study
 - one can specify an analyses prior to data collection @p2021pre
-- get credit for fully planned analyses. @p2021pre
+- get credit for fully planned analyses @p2021pre
 
 ## Answers 4/4: why preregister for exploratory studies? 
 
@@ -113,8 +108,6 @@ Reduce QRP:
 - reduce p-hacking @p2021pre
 - prevent HARKing @cockburn2018hark
 - 'avoid imaginary post hoc storytelling' @dirnagl2020preregistration
-
-[*] @van2023preregistration gives no reasons 
 
 ## Answers 5/4: why preregister for exploratory studies? 
 
@@ -281,14 +274,16 @@ From @dirnagl2020preregistration
 - [7] is @chambers2020registered
 - [9] is @schapira2019open
 
-## Conclusion 0/
+# Conclusions
+
+## Conclusion 1/5
 
 Problems with method today:
 
 - unable to search specifically for registered reports
 - unable to search specifically for exploratory research
 
-## Conclusion 1/
+## Conclusion 2/5
 
 Why publish the analysis of exploratory research before having seen the data:
 
@@ -297,7 +292,7 @@ Why publish the analysis of exploratory research before having seen the data:
   - allows to set a stopping rule  @toth2021study @p2021pre
   - reduce QRP @mcphetres2020should @p2021pre @cockburn2018hark @dirnagl2020preregistration
 
-## Conclusion 2/
+## Conclusion 3/5
 
 Has the analysis of exploratory research before having seen the data been published?
 
@@ -308,17 +303,19 @@ Yes!
 -   fields were behavior @parrish2018exploring, physiology @willmot2024exploring and cognition @frenken2018exploring
 -   The analysis was specified in details with different styles
 
-## Conclusion 3/
+## Conclusion 4/5
 
 -   2 out of 3 preregistered studies changed the study design:
     - change experimental setup @frenken2018exploring
     - added an experiment @parrish2018exploring
 
-## Conclusion 4/
+## Conclusion 5/5
 
 - Lack of diversity in fields that do a registered report
 - No qualitative studies found, although there are recommendations @toth2021study
 - A rolling report seems 
+
+# Discussion
 
 ## My statement
 
@@ -335,35 +332,8 @@ Please try to change my mind!
     - Too few registered reports?
     - Too sloppy selection for exploratory research?
 
-## Appendix
+## Questions?
 
-## Recommendations 1/4
-
--   Train graduate students on how to go through a preregistration process @toth2021study
--   Teach graduate students to ask research questions that are interesting even if there are null results @toth2021study
--   Teach students how to write-up null results @toth2021study
--   Preregister Master's theses and dissertations @toth2021study
-
-## Recommendations 2/4
-
--   Solicit advice from colleagues prior to registration @toth2021study
--   Preregister a decision tree @toth2021study
--   Transparently report deviations from preregistration @toth2021study
--   Explore data; report confirmatory and exploratory analyses separately. Leverage holdout datasets if needed @toth2021study
-
-## Recommendations 3/4
-
--   Interpret null results; explain their contribution to the field @toth2021study
--   Preregister contingency plans for data collection and study design @toth2021study
--   Make preregistrations public after publication to allow other researchers to learn from your design and issues encountered during the study @toth2021study
--   If conducting multilevel research, preregister cutoff statistics to justify aggregation and plans to handle missing data @toth2021study
-
-## Recommendations 4/4
-
--   If using an ESM design, preregister how many surveys given per week and plans for how to shorten measures @toth2021study
-
-[*] Experience sampling method, also called daily diary method, or ecological momentary assessment
-
--   If using archival data, transparently report when hypotheses were created in relation to when data were viewed and decisions around how to combine particular variables, cut-off dates, and/or inclusion criteria @toth2021study
+<https://github.com/richelbilderbeek/open_science_presentation_20240517.git>
 
 # References
